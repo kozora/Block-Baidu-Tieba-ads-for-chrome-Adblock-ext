@@ -1,3 +1,4 @@
+[Adblock Plus 2.1]
 www.ithome.com##DIV[class="rela-post"]
 tieba.baidu.com##DIV[class="top-sec clearfix"]
 tieba.baidu.com##DIV[id="spage_liveshow_slide"][class="spage_liveshow_slide clearfix"]
