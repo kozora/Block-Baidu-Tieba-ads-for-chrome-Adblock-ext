@@ -1,5 +1,7 @@
 [Adblock Plus 2.1]
+!-----Ithome Start-----
 www.ithome.com##DIV[class="rela-post"]
+!-----Baidu Tieba Start-----
 tieba.baidu.com##DIV[class="top-sec clearfix"]
 tieba.baidu.com##DIV[id="spage_liveshow_slide"][class="spage_liveshow_slide clearfix"]
 tieba.baidu.com##DIV[id="plat_act_wrapper"][class="platact_bigouter"]
@@ -28,6 +30,10 @@ tieba.baidu.com##DIV[class="pre_icon_wrap pre_icon_wrap_theme1"]
 tieba.baidu.com##DIV[class="feature_panel"]
 tieba.baidu.com##DIV[class="profile_bottom"]
 tieba.baidu.com##DIV[class="profile_right user_score"]
+tieba.baidu.com##DIV[id="game_live_list"][class="game_live_list clearfix"]
+tieba.baidu.com##A[class=" j_tbnav_tab_a"][href="/show/zhanqi/roomList?tag_id=49&forum_id=2432903"]
+tieba.baidu.com##A[class="icon_tbworld tbworld_lv2"][href="/tbmall/tshow"]
+!-----Bing Start-----
 www.bing.com##DIV[id="share_b"][class="sh_block"]
 www.bing.com##DIV[id="bip"][class="bip_show"]
 www.bing.com##DIV[id="hp_tbar"][class="hp_cnCarousel"]
