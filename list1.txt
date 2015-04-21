@@ -1,7 +1,8 @@
 [Adblock Plus 2.1]
-!-----Ithome Start-----
-www.ithome.com##DIV[class="rela-post"]
-!-----Baidu Tieba Start-----
+! Version: 201504211832
+! Title: Custom List 1
+! Expires: 4 days (update frequency)
+!-----Baidu Tieba start-----
 tieba.baidu.com##DIV[class="top-sec clearfix"]
 tieba.baidu.com##DIV[id="spage_liveshow_slide"][class="spage_liveshow_slide clearfix"]
 tieba.baidu.com##DIV[id="plat_act_wrapper"][class="platact_bigouter"]
@@ -33,8 +34,18 @@ tieba.baidu.com##DIV[class="profile_right user_score"]
 tieba.baidu.com##DIV[id="game_live_list"][class="game_live_list clearfix"]
 tieba.baidu.com##A[class=" j_tbnav_tab_a"][href="/show/zhanqi/roomList?tag_id=49&forum_id=2432903"]
 tieba.baidu.com##A[class="icon_tbworld tbworld_lv2"][href="/tbmall/tshow"]
-!-----Bing Start-----
+tieba.baidu.com##A[class="nav_icon icon_video  j_tbnav_tab_a"][href="/shipin/bw/forum/info?kw=chrome&ie=utf-8"]
+tieba.baidu.com##A[id="j_navtab_game"][class="nav_icon icon_game  j_tbnav_tab_a"][href="/game/index?kw=chrome&ie=utf-8"]
+tieba.baidu.com##DIV[id="media_item"][class="item media_item"]
+!-----Baidu Tieba end-----
+!-----Bing start-----
 www.bing.com##DIV[id="share_b"][class="sh_block"]
 www.bing.com##DIV[id="bip"][class="bip_show"]
 www.bing.com##DIV[id="hp_tbar"][class="hp_cnCarousel"]
 www.bing.com##DIV[id="carouselControls"]
+!-----Bing end-----
+!-----Ithome start-----
+www.ithome.com##DIV[class="rela-post"]
+!-----Ithome end-----
+!-----file end-----
+
