@@ -37,6 +37,7 @@ tieba.baidu.com##A[class="icon_tbworld tbworld_lv2"][href="/tbmall/tshow"]
 tieba.baidu.com##A[class="nav_icon icon_video  j_tbnav_tab_a"][href="/shipin/bw/forum/info?kw=chrome&ie=utf-8"]
 tieba.baidu.com##A[id="j_navtab_game"][class="nav_icon icon_game  j_tbnav_tab_a"][href="/game/index?kw=chrome&ie=utf-8"]
 tieba.baidu.com##DIV[id="media_item"][class="item media_item"]
+tieba.baidu.com##A[id="selectsearch-icon"]
 !-----Baidu Tieba end-----
 !-----Bing start-----
 www.bing.com##DIV[id="share_b"][class="sh_block"]
