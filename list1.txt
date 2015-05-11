@@ -1,5 +1,5 @@
 [Adblock Plus 2.1]
-! Version: 201504211832
+! Version: 201505111941
 ! Title: Custom List 1
 ! Expires: 4 days (update frequency)
 !-----Baidu Tieba start-----
@@ -40,9 +40,7 @@ tieba.baidu.com##DIV[id="media_item"][class="item media_item"]
 tieba.baidu.com##A[id="selectsearch-icon"]
 !-----Baidu Tieba end-----
 !-----Bing start-----
-www.bing.com##DIV[id="share_b"][class="sh_block"]
-www.bing.com##DIV[id="bip"][class="bip_show"]
-www.bing.com##DIV[id="hp_tbar"][class="hp_cnCarousel"]
+www.bing.com##DIV[id="hp_tbar"][class=" hp_cnCarousel"]
 www.bing.com##DIV[id="carouselControls"]
 !-----Bing end-----
 !-----Ithome start-----
